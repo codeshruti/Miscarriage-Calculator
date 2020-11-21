@@ -1,0 +1,201 @@
+Age,Weight,Diabetes,Conception,PM,Race,FatherAge > 40,Smoking,Drinking,Miscarriage
+21,52,No,Natural,No,American/European,No,No,Yes,Less
+21,55,Yes,Natural,No,American/European,No,Yes,Yes,Less
+21,58,Yes,Natural,Yes,American/European,No,Yes,No,Medium
+21,63,Yes,Through IVF,Yes,American/European,No,No,Yes,Medium
+21,66,No,Through IVF,Yes,Asian,No,No,No,More
+21,47,Yes,Through IVF,No,Asian,Yes,No,No,Less
+21,51,No,Natural,No,East Asian,No,Yes,No,Less
+22,56,Yes,Through IVF,Yes,East Asian,Yes,Yes,Yes,More
+22,69,Yes,Through IVF,Yes,East Asian,No,Yes,No,More
+22,67,No,Through IVF,No,Mixed/African,No,No,No,Medium
+22,69,No,Through IVF,Yes,Mixed/African,Yes,No,Yes,More
+22,48,No,Natural,No,Mixed/African,No,Yes,No,Less
+22,53,Yes,Through IVF,Yes,Mixed/African,No,No,Yes,Medium
+22,53,No,Natural,Yes,American/European,No,Yes,Yes,Less
+22,57,Yes,Natural,No,American/European,Yes,No,No,Less
+22,63,Yes,Natural,No,American/European,No,No,Yes,Medium
+22,66,Yes,Through IVF,No,Asian,No,Yes,No,Medium
+23,47,No,Through IVF,Yes,Asian,No,Yes,Yes,Medium
+23,52,Yes,Through IVF,Yes,East Asian,No,No,Yes,More
+23,55,No,Natural,No,East Asian,No,No,No,Less
+23,58,Yes,Through IVF,No,East Asian,No,No,No,Medium
+23,63,Yes,Through IVF,Yes,East Asian,No,No,Yes,More
+23,66,No,Natural,Yes,Mixed/African,Yes,Yes,Yes,More
+24,47,No,Through IVF,No,Mixed/African,No,Yes,No,Medium
+24,52,No,Natural,No,American/European,No,Yes,Yes,Less
+24,55,Yes,Through IVF,No,American/European,No,No,Yes,Less
+24,58,No,Natural,No,Asian,No,No,No,Less
+24,53,Yes,Natural,Yes,Asian,No,Yes,Yes,Medium
+24,66,Yes,Natural,Yes,Asian,No,No,Yes,More
+24,47,Yes,Through IVF,No,East Asian,No,No,No,Less
+18,52,No,Through IVF,Yes,East Asian,No,Yes,No,Medium
+18,55,Yes,Through IVF,Yes,East Asian,No,Yes,Yes,More
+18,58,No,Natural,Yes,Mixed/African,Yes,Yes,No,Medium
+18,60,Yes,Through IVF,No,Mixed/African,No,No,Yes,Medium
+18,68,Yes,Through IVF,No,Mixed/African,No,No,No,More
+19,47,No,Through IVF,Yes,American/European,No,Yes,No,Less
+19,52,No,Through IVF,Yes,American/European,No,Yes,Yes,Less
+19,55,No,Natural,Yes,American/European,No,No,Yes,Less
+19,58,Yes,Through IVF,Yes,American/European,No,No,No,Medium
+19,63,No,Natural,No,Asian,No,No,Yes,Medium
+20,66,Yes,Natural,Yes,Asian,No,Yes,No,More
+20,47,Yes,Natural,No,Asian,No,Yes,Yes,Less
+20,52,Yes,Through IVF,Yes,East Asian,Yes,Yes,No,Medium
+21,55,No,Through IVF,No,East Asian,No,Yes,Yes,Medium
+21,58,Yes,Through IVF,No,East Asian,No,No,No,Medium
+21,63,No,Natural,Yes,East Asian,No,No,Yes,More
+21,72,Yes,Through IVF,No,East Asian,No,No,No,More
+22,47,Yes,Through IVF,No,Mixed/African,No,Yes,Yes,Less
+22,52,No,Through IVF,Yes,Mixed/African,No,Yes,No,Medium
+22,63,No,Through IVF,Yes,Mixed/African,No,No,No,More
+22,71,No,Natural,No,American/European,No,No,Yes,Medium
+23,63,Yes,Through IVF,Yes,American/European,Yes,Yes,No,Medium
+23,66,No,Natural,No,Asian,No,No,Yes,Medium
+23,74,Yes,Natural,Yes,Asian,No,Yes,No,More
+24,52,Yes,Natural,Yes,East Asian,No,Yes,No,Medium
+24,65,Yes,Through IVF,No,East Asian,No,No,Yes,More
+24,72,No,Through IVF,No,Mixed/African,No,No,Yes,More
+25,63,Yes,Through IVF,No,Mixed/African,No,Yes,No,More
+25,66,No,Natural,No,Mixed/African,No,No,Yes,More
+25,74,Yes,Through IVF,No,Mixed/African,No,Yes,No,More
+25,61,Yes,Through IVF,Yes,American/European,No,No,Yes,Medium
+26,63,No,Through IVF,Yes,American/European,Yes,No,Yes,Medium
+26,52,No,Through IVF,No,American/European,No,No,Yes,Less
+26,66,No,Natural,No,Asian,No,No,Yes,Medium
+26,76,Yes,Through IVF,No,Asian,No,Yes,No,More
+26,52,No,Natural,Yes,Asian,Yes,Yes,No,Less
+27,53,Yes,Through IVF,No,East Asian,No,Yes,No,Less
+27,72,Yes,Natural,Yes,East Asian,No,Yes,No,More
+27,63,Yes,Through IVF,No,East Asian,No,Yes,No,More
+27,55,No,Through IVF,Yes,Mixed/African,No,No,Yes,Medium
+27,57,Yes,Through IVF,No,Mixed/African,Yes,No,Yes,Medium
+28,59,No,Natural,Yes,Mixed/African,No,Yes,No,Less
+28,52,Yes,Through IVF,Yes,American/European,No,No,Yes,Less
+28,74,Yes,Through IVF,Yes,American/European,No,Yes,No,Medium
+28,63,No,Through IVF,No,American/European,No,Yes,No,Medium
+28,63,No,Through IVF,No,Asian,No,No,Yes,Medium
+28,66,No,Natural,Yes,Asian,No,No,Yes,More
+29,68,Yes,Through IVF,Yes,Asian,Yes,Yes,No,More
+29,52,No,Natural,No,Asian,No,Yes,No,Less
+29,53,Yes,Natural,No,East Asian,No,No,Yes,Less
+29,59,Yes,Through IVF,Yes,East Asian,No,Yes,No,Medium
+30,53,Yes,Through IVF,No,Mixed/African,No,Yes,No,Less
+30,55,No,Through IVF,No,Mixed/African,No,Yes,No,Less
+30,57,Yes,Through IVF,No,Mixed/African,No,No,Yes,Less
+30,59,No,Natural,Yes,American/European,No,No,Yes,Medium
+30,70,Yes,Through IVF,Yes,American/European,Yes,No,Yes,More
+31,61,Yes,Through IVF,Yes,Asian,No,No,Yes,Medium
+31,63,No,Through IVF,Yes,Asian,No,Yes,No,Medium
+31,63,No,Through IVF,No,East Asian,No,No,Yes,Medium
+31,66,No,Natural,No,East Asian,No,Yes,No,Medium
+31,68,Yes,Through IVF,Yes,East Asian,Yes,Yes,No,More
+32,52,No,Natural,No,Mixed/African,Yes,No,Yes,Less
+32,53,Yes,Natural,No,Mixed/African,No,No,Yes,Less
+32,70,Yes,Natural,Yes,Mixed/African,No,No,Yes,More
+32,53,Yes,Through IVF,Yes,American/European,Yes,Yes,No,Medium
+32,55,No,Through IVF,No,American/European,No,Yes,No,Less
+33,64,Yes,Through IVF,No,American/European,No,Yes,No,Medium
+33,59,No,Natural,Yes,Asian,No,No,Yes,Medium
+33,60,Yes,Through IVF,No,Asian,No,No,Yes,Medium
+33,49,Yes,Through IVF,Yes,Asian,No,Yes,No,Medium
+33,63,No,Through IVF,No,East Asian,No,No,Yes,Medium
+33,71,No,Through IVF,No,East Asian,Yes,No,Yes,More
+34,66,No,Natural,Yes,East Asian,No,Yes,No,More
+34,68,Yes,Through IVF,Yes,Mixed/African,Yes,Yes,No,More
+34,52,No,Natural,Yes,Mixed/African,No,Yes,No,Less
+34,53,Yes,Natural,No,American/European,No,No,Yes,Less
+34,62,Yes,Natural,No,American/European,Yes,No,Yes,Medium
+35,53,Yes,Through IVF,Yes,Asian,No,No,Yes,Medium
+35,55,No,Through IVF,Yes,Asian,No,No,Yes,Medium
+35,65,Yes,Through IVF,No,Asian,No,Yes,No,More
+35,59,No,Natural,Yes,East Asian,Yes,Yes,No,Medium
+35,53,Yes,Through IVF,No,East Asian,No,No,Yes,Less
+35,61,Yes,Through IVF,Yes,East Asian,No,No,Yes,Medium
+36,63,No,Through IVF,Yes,East Asian,No,No,Yes,Medium
+36,63,No,Through IVF,No,Mixed/African,No,Yes,Yes,More
+36,66,No,Natural,No,Mixed/African,Yes,Yes,No,More
+36,67,Yes,Through IVF,No,Mixed/African,No,Yes,Yes,More
+36,52,No,Natural,Yes,Mixed/African,No,Yes,No,Medium
+37,53,Yes,Natural,Yes,American/European,No,No,Yes,Medium
+37,73,Yes,Natural,No,American/European,No,No,Yes,More
+37,53,Yes,Through IVF,No,Asian,No,Yes,No,Medium
+37,55,No,Through IVF,Yes,East Asian,No,No,Yes,Medium
+37,57,Yes,Through IVF,Yes,East Asian,Yes,No,Yes,More
+37,59,No,Natural,No,Mixed/African,Yes,Yes,No,Medium
+37,60,Yes,Through IVF,No,Mixed/African,Yes,No,Yes,Medium
+38,61,Yes,Through IVF,No,American/European,No,Yes,No,Medium
+38,63,No,Through IVF,No,American/European,Yes,Yes,Yes,Medium
+38,69,No,Through IVF,Yes,American/European,No,Yes,No,More
+38,66,No,Natural,Yes,American/European,No,No,Yes,More
+38,68,Yes,Through IVF,No,American/European,Yes,No,Yes,More
+38,52,No,Natural,Yes,Asian,Yes,Yes,No,Medium
+38,53,Yes,Natural,Yes,Asian,Yes,Yes,No,Medium
+38,53,Yes,Natural,Yes,East Asian,Yes,No,Yes,Medium
+39,53,Yes,Through IVF,No,East Asian,No,Yes,No,Medium
+39,55,No,Through IVF,No,Mixed/African,Yes,No,Yes,Medium
+39,57,Yes,Through IVF,Yes,Mixed/African,Yes,Yes,No,More
+39,59,No,Natural,Yes,Mixed/African,Yes,No,Yes,Medium
+39,50,Yes,Through IVF,Yes,American/European,Yes,Yes,No,Medium
+39,61,Yes,Through IVF,Yes,American/European,Yes,Yes,No,More
+39,63,No,Through IVF,No,Asian,Yes,Yes,No,More
+40,72,No,Through IVF,Yes,Asian,Yes,No,Yes,More
+40,66,No,Natural,No,East Asian,Yes,No,Yes,More
+40,68,Yes,Through IVF,Yes,Mixed/African,Yes,Yes,No,More
+40,52,No,Natural,No,Mixed/African,Yes,Yes,No,Medium
+40,56,Yes,Natural,No,American/European,Yes,No,Yes,Medium
+40,67,Yes,Natural,Yes,American/European,Yes,Yes,No,More
+40,53,Yes,Through IVF,No,Asian,Yes,Yes,No,Medium
+41,55,No,Through IVF,No,Asian,Yes,Yes,No,Medium
+41,63,Yes,Through IVF,Yes,Asian,Yes,Yes,No,More
+41,59,No,Natural,Yes,East Asian,No,No,Yes,More
+41,60,Yes,Through IVF,No,East Asian,Yes,No,Yes,More
+41,61,Yes,Through IVF,Yes,Mixed/African,No,Yes,No,More
+41,63,No,Through IVF,No,American/European,No,No,Yes,Medium
+41,63,No,Natural,Yes,American/European,No,Yes,No,Medium
+41,73,No,Natural,Yes,American/European,No,No,No,More
+42,68,Yes,Through IVF,No,American/European,Yes,No,Yes,More
+42,52,No,Natural,No,Asian,Yes,Yes,No,Medium
+42,53,Yes,Natural,No,Asian,Yes,Yes,Yes,Medium
+42,53,Yes,Natural,No,East Asian,Yes,Yes,No,Medium
+43,53,Yes,Through IVF,No,East Asian,Yes,No,Yes,Medium
+43,55,No,Through IVF,Yes,Mixed/African,Yes,No,Yes,More
+43,57,Yes,Through IVF,Yes,Mixed/African,Yes,Yes,No,More
+43,59,No,Natural,No,Mixed/African,Yes,Yes,Yes,More
+44,64,Yes,Through IVF,No,Mixed/African,Yes,Yes,No,More
+44,61,Yes,Through IVF,No,American/European,No,No,No,Medium
+44,63,No,Through IVF,Yes,American/European,No,No,Yes,More
+44,63,No,Through IVF,No,Asian,No,No,No,More
+44,66,No,Natural,Yes,East Asian,No,No,Yes,More
+44,68,Yes,Through IVF,No,East Asian,Yes,Yes,No,More
+44,52,No,Natural,Yes,East Asian,Yes,Yes,No,Medium
+45,53,Yes,Natural,No,Mixed/African,Yes,No,Yes,Medium
+45,74,Yes,Natural,Yes,Mixed/African,Yes,Yes,No,More
+45,53,Yes,Through IVF,Yes,American/European,Yes,No,Yes,Medium
+45,55,No,Through IVF,Yes,Asian,Yes,No,Yes,Medium
+45,54,Yes,Through IVF,No,Asian,Yes,Yes,No,Medium
+45,59,No,Natural,No,Asian,Yes,Yes,No,More
+46,67,Yes,Through IVF,Yes,Asian,Yes,No,Yes,More
+46,61,Yes,Through IVF,Yes,East Asian,Yes,No,No,More
+46,63,No,Through IVF,No,East Asian,Yes,Yes,No,More
+46,63,No,Through IVF,No,Mixed/African,Yes,No,Yes,More
+47,66,No,Natural,Yes,Mixed/African,Yes,No,No,More
+47,68,Yes,Through IVF,No,Mixed/African,Yes,No,Yes,More
+47,52,No,Natural,No,American/European,Yes,Yes,No,Medium
+47,53,Yes,Natural,No,American/European,Yes,Yes,No,Medium
+47,65,Yes,Natural,Yes,American/European,Yes,No,No,More
+47,53,Yes,Through IVF,Yes,American/European,Yes,No,Yes,Medium
+47,55,No,Through IVF,Yes,Asian,Yes,Yes,No,Medium
+48,57,Yes,Through IVF,Yes,Asian,Yes,No,No,Medium
+48,59,No,Natural,No,Asian,Yes,Yes,Yes,More
+48,60,Yes,Through IVF,No,East Asian,Yes,No,No,More
+48,71,Yes,Through IVF,Yes,East Asian,Yes,No,Yes,More
+48,63,No,Through IVF,No,Mixed/African,Yes,No,No,More
+48,63,Yes,Through IVF,No,Mixed/African,Yes,Yes,No,More
+48,66,No,Natural,Yes,Mixed/African,Yes,Yes,Yes,More
+49,68,Yes,Through IVF,Yes,American/European,Yes,No,No,More
+49,52,No,Natural,No,American/European,Yes,Yes,No,Medium
+49,53,Yes,Natural,No,Asian,Yes,No,Yes,Medium
+49,69,Yes,Natural,Yes,Asian,Yes,Yes,Yes,More
+49,53,Yes,Through IVF,No,Asian,Yes,No,No,Medium
+49,55,No,Through IVF,Yes,Asian,Yes,Yes,No,Medium
