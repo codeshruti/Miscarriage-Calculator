@@ -6,4 +6,7 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 \n\
-" > ~/ .streamlit/config.toml
+" 
+const PORT = process.env.PORT || '8080' 
+app=express();
+app.set("port",PORT);> ~/ .streamlit/config.toml
