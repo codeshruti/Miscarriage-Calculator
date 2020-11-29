@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Miscarriage_script.py
+web:sh setup.sh && streamlit run Miscarriage_script.py
